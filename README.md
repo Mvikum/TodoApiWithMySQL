@@ -54,5 +54,8 @@ dotnet ef database update
 dotnet build
 dotnet run
 ```
+### API Testing
+If you're using Visual Studio Code, you can leverage the **REST Client** extension to send HTTP requests and view the responses directly within the editor.
 
-
+Alternatively, you can use **POSTMAN**, a powerful tool for more advanced API testing and management.
+API are available at : ToDoApi.http in the root directory.
